@@ -15,5 +15,14 @@ public class Main {
             j++;
             System.out.println(j);
         }
+
+        System.out.println("\nDowhile Loop");
+        int k =0;
+        do {
+            k++;
+            System.out.println(k);
+
+        } while(k<10);
+
     }
 }
