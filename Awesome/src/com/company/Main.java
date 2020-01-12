@@ -1,10 +1,11 @@
 package com.company;
-
+import java.io.BufferedReader;
 public class Main {
 
     public static void main(String[] args) {
-    final float pi = 3.14159f;
-        System.out.println(pi);
+    // Will be using the java.io.BufferedReader; for console input lecture
+
+        
 
 
     }
